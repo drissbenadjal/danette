@@ -1,0 +1,53 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    position: fixed;
+    top: 0;
+    height: fit-content;
+    width: 100%;
+    z-index: 1;
+
+    a {
+        color: var(--color-foreground);
+    }
+
+    .logo {
+        font-family: 'DM Serif Display', serif;
+        font-size: 1.5rem;
+        margin-left: 1rem;
+    }
+
+    .themebutton {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        width: fit-content;
+        margin: 30px auto;
+        color: var(--color-foreground);
+        background-color: transparent;
+        fill: var(--color-foreground);
+    }
+
+    img {
+        width: 100px;
+        height: 100px;
+    }
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+            margin: 0 10px;
+        }
+    }
+}

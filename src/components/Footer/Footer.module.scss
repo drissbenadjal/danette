@@ -1,0 +1,16 @@
+.footer {
+    height: 200px;
+    background-color: var(--color-foreground);
+    color: var(--color-background);
+    display: flex;
+    padding: 50px 100px;
+    justify-content: center;
+    align-items: center;
+
+    &__container {
+        display: flex;
+    }
+    &__mentions{
+        color:var(--color-background)
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "questions": [
+  {
+  "level": 1,
+  "question": "Quelle est la principale source d'émissions de gaz à effet de serre ?",
+  "explications": "L'industrie est la principale source d'émissions de gaz à effet de serre, devant l'agriculture. En 2020, l'industrie a contribué à hauteur de 35% des émissions mondiales de gaz à effet de serre, tandis que l'agriculture représentait 24%.",
+  "reponses": {
+  "correcte": "Industrie",
+  "incorrecte": "Agriculture"
+  }
+  },
+  {
+  "level": 2,
+  "question": "Quelle est l'impact des énergies renouvelables sur les émissions de CO2 ?",
+  "explications": "Les énergies renouvelables permettent de réduire les émissions de CO2. En 2021, l'utilisation croissante des énergies renouvelables a contribué à une diminution de 12% des émissions mondiales de CO2 par rapport à l'année précédente.",
+  "reponses": {
+  "correcte": "Elles les réduisent",
+  "incorrecte": "Elles les augmentent"
+  }
+  },
+  {
+  "level": 3,
+  "question": "Comment la déforestation contribue-t-elle au changement climatique ?",
+  "explications": "La déforestation contribue au changement climatique en augmentant les émissions de CO2. Chaque année, la déforestation est responsable de l'émission d'environ 10% du total des gaz à effet de serre dans le monde.",
+  "reponses": {
+  "correcte": "Elle augmente les émissions de CO2",
+  "incorrecte": "Elle les diminue"
+  }
+  },
+  {
+  "level": 4,
+  "question": "Quel est l'effet de serre ?",
+  "explications": "L'effet de serre est un phénomène naturel qui permet de retenir la chaleur du soleil. Il maintient la température moyenne de la Terre à environ 15 degrés Celsius. Sans cet effet, la planète serait beaucoup plus froide.",
+  "reponses": {
+  "correcte": "Retient la chaleur",
+  "incorrecte": "Refroidit la planète"
+  }
+  },
+  {
+  "level":5,
+  "question": "Quelles sont les conséquences du réchauffement climatique sur les océans ?",
+  "explications": "Le réchauffement climatique entraîne une montée du niveau de la mer. Depuis 1900, le niveau de la mer a augmenté d'environ 20 centimètres en raison du réchauffement climatique, mettant en danger les écosystèmes côtiers.",
+  "reponses": {
+  "correcte": "Montée du niveau de la mer",
+  "incorrecte": "Diminution des marées"
+  }
+  },
+  {
+  "level": 6,
+  "question": "Comment les modes de transport peuvent-ils contribuer à la réduction des émissions ?",
+  "explications": "Les modes de transport écologiques permettent de réduire les émissions de CO2. Par exemple, en utilisant des véhicules électriques, les émissions de gaz à effet de serre peuvent être réduites de manière significative.",
+  "reponses": {
+  "correcte": "En utilisant des transports écologiques",
+  "incorrecte": "En augmentant l'utilisation de voitures polluantes"
+  }
+  },
+  {
+  "level": 7,
+  "question": "Comment les actions individuelles peuvent-elles impacter le changement climatique ?",
+  "explications": "Les actions individuelles peuvent impacter le changement climatique en adoptant des comportements éco-responsables. Par exemple, la réduction de la consommation d'énergie, le recyclage et l'utilisation de produits durables peuvent contribuer à une diminution significative des émissions de CO2.",
+  "reponses": {
+  "correcte": "En adoptant des comportemenxts éco-responsables",
+  "incorrecte": "En ignorant les problématiques environnementales"
+  }
+  },
+  {
+  "level": 8,
+  "question": "Pourquoi est-il important d'adopter des modes de vie durables ?",
+  "explications": "Il est important d'adopter des modes de vie durables pour réduire l'empreinte carbone. En 2019, l'empreinte carbone moyenne par habitant était d'environ 7,8 tonnes de CO2 par an. Adopter des modes de vie durables peut contribuer à diminuer cette empreinte et à préserver l'environnement.",
+  "reponses": {
+  "correcte": "Pour réduire l'empreinte carbone",
+  "incorrecte": "Pour augmenter la consommation énergétique"
+  }
+  },
+  {
+    "level": 9,
+    "question": "Quel rôle jouent les forêts dans la lutte contre le changement climatique ?",
+    "explications": "Les forêts jouent un rôle crucial dans la lutte contre le changement climatique. Elles absorbent le dioxyde de carbone (CO2) de l'atmosphère lors de la photosynthèse, contribuant ainsi à réduire les concentrations de gaz à effet de serre. En 2022, les forêts ont absorbé environ 2 milliards de tonnes de CO2, ce qui équivaut à la moitié des émissions annuelles de l'industrie mondiale.",
+    "reponses": {
+    "correcte": "Elles absorbent le CO2",
+    "incorrecte": "Elles émettent du CO2"
+    }
+    }
+  ]
+  }

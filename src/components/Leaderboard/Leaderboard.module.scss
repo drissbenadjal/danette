@@ -1,0 +1,26 @@
+.leaderboard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+    height: 100vh;
+    gap: 2rem;
+    text-align: center;
+    background-color: var(--color-primary);
+    color: var(--white);
+    table{
+        width: 500px;
+        border-radius: 0.5rem;
+        border: 1px solid var(--white);
+        padding: 20px;
+
+        th {
+            font-family: 'DM Serif Display', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            padding-bottom: 1rem;
+        }
+    }
+}
