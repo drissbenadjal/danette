@@ -48,22 +48,22 @@ const Login = () => {
             <div className='login'>
                 <form action="" className='signform' onSubmit={(e) => onSubmit(e)}>
                     <article>
-                        <h2>Log in</h2>
-                        <h5>Welcome back, please login to your account.</h5>
+                        <h2>Connectez-vous</h2>
+                        <h5>Bienvenue à nouveau, veuillez vous connecter pour continuer.</h5>
                     </article>
                     <fieldset>
                         <label htmlFor="email">Email</label>
-                        <input required type="email" className="form-control" id='email' name='email' placeholder="Enter your email..." />
+                        <input required type="email" className="form-control" id='email' name='email' placeholder="Entrez votre adresse mail..." />
                     </fieldset>
                     <fieldset>
-                        <label htmlFor="password">Password</label>
-                        <input required type="password" className="form-control" id='password' name='password' placeholder="Enter your password..." />
+                        <label htmlFor="password">Mot de passe</label>
+                        <input required type="password" className="form-control" id='password' name='password' placeholder="Entrez votre mot de passe..." />
                         {/* <button>Forgot your password ?</button> */}
                     </fieldset>
                     {
                         error && <p className='error'>{error}</p>
                     }
-                    <button type="submit" className="primary">Log in</button>
+                    <button type="submit" className="primary">Connexion</button>
                     <Link href='/signup'>Pas de compte ? Inscrivez-vous dès maintenant</Link>
                 </form>
                     <article>
