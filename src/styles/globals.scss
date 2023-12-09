@@ -19,14 +19,14 @@
 :root[data-theme='dark'] {
     --color-foreground: rgb(229, 229, 229);
     --color-background: #171616;
-    --color-background-opacity: rgba(229, 229, 229, 0.20);
+    --color-background-opacity: rgba(229, 229, 229, 0.7);
     --color-green: rgb(40, 144, 69);
 }
 
 :root[data-theme='light'] {
     --color-foreground: #171616;
     --color-background: rgb(229, 229, 229);
-    --color-background-opacity: rgba(229, 229, 229, 0.20);
+    --color-background-opacity: rgba(229, 229, 229, 0.7);
     --color-green: rgb(17, 52, 27);
 }
 
