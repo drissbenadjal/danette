@@ -60,26 +60,26 @@ const Signup = () => {
                 <form action="" className='signform' onSubmit={(e) => onSubmit(e)}>
 
                     <article>
-                        <h2>Sign up</h2>
-                        <h5>Welcome, please create an account to continue.</h5>
+                        <h2>Inscrivez-vous</h2>
+                        <h5>Bienvenue, créez vous un compte pour continuer.</h5>
 
                     </article>
                     <fieldset>
                         <label htmlFor="pseudo">Pseudo</label>
-                        <input required type="text" className="form-control" id='pseudo' name='pseudo' placeholder="Enter your pseudo..." />
+                        <input required type="text" className="form-control" id='pseudo' name='pseudo' placeholder="Entrez un pseudo..." />
                     </fieldset>
                     <fieldset>
                         <label htmlFor="email">Email</label>
-                        <input required type="email" className="form-control" id='email' name='email' placeholder="Enter your email..." />
+                        <input required type="email" className="form-control" id='email' name='email' placeholder="Entrez votre adresse mail..." />
                     </fieldset>
                     <fieldset>
-                        <label htmlFor="password">Password</label>
-                        <input required type="password" className="form-control" id='password' name='password' placeholder="Enter your password..." />
+                        <label htmlFor="password">Mot de passe</label>
+                        <input required type="password" className="form-control" id='password' name='password' placeholder="Entrez un mot de passe..." />
                     </fieldset>
                     {
                         error && <p className='error'>{error}</p>
                     }
-                    <button type="submit" className="primary">Sign up</button>
+                    <button type="submit" className="primary">Inscription</button>
                     <p>Vous avez déjà un compte ? <a href="/login">Connectez-vous.</a></p>
                 </form>
                 <article>
